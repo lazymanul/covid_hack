@@ -17,6 +17,9 @@
 - OSM_airports.ipynb
 - OSM_data.ipynb
 
+средства аугментации данных на основе графовых данных
+- spectral_clustering.ipynb
+
 
 
 
